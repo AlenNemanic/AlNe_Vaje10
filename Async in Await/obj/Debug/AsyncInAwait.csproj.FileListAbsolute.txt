@@ -1,0 +1,8 @@
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Async in Await\bin\Debug\Async in Await.exe.config
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Async in Await\bin\Debug\Async in Await.exe
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Async in Await\bin\Debug\Async in Await.pdb
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Async in Await\obj\Debug\AsyncInAwait.csproj.AssemblyReference.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Async in Await\obj\Debug\AsyncInAwait.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Async in Await\obj\Debug\AsyncInAwait.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Async in Await\obj\Debug\Async in Await.exe
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Async in Await\obj\Debug\Async in Await.pdb

@@ -1,0 +1,93 @@
+C:\Users\Polona\Desktop\Prak_mat\Prog\Predstavitev\Letala\bin\Debug\Letala.exe.config
+C:\Users\Polona\Desktop\Prak_mat\Prog\Predstavitev\Letala\bin\Debug\Letala.exe
+C:\Users\Polona\Desktop\Prak_mat\Prog\Predstavitev\Letala\bin\Debug\Letala.pdb
+C:\Users\Polona\Desktop\Prak_mat\Prog\Predstavitev\Letala\obj\Debug\T-Rex.csproj.AssemblyReference.cache
+C:\Users\Polona\Desktop\Prak_mat\Prog\Predstavitev\Letala\obj\Debug\T-Rex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Polona\Desktop\Prak_mat\Prog\Predstavitev\Letala\obj\Debug\Letala.Form1.resources
+C:\Users\Polona\Desktop\Prak_mat\Prog\Predstavitev\Letala\obj\Debug\Letala.Properties.Resources.resources
+C:\Users\Polona\Desktop\Prak_mat\Prog\Predstavitev\Letala\obj\Debug\T-Rex.csproj.GenerateResource.cache
+C:\Users\Polona\Desktop\Prak_mat\Prog\Predstavitev\Letala\obj\Debug\T-Rex.csproj.CoreCompileInputs.cache
+C:\Users\Polona\Desktop\Prak_mat\Prog\Predstavitev\Letala\obj\Debug\Letala.exe
+C:\Users\Polona\Desktop\Prak_mat\Prog\Predstavitev\Letala\obj\Debug\Letala.pdb
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje_predstavitve\Lestvice\Trex\bin\Debug\Letala.exe.config
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje_predstavitve\Lestvice\Trex\bin\Debug\Letala.exe
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje_predstavitve\Lestvice\Trex\bin\Debug\Letala.pdb
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje_predstavitve\Lestvice\Trex\obj\Debug\T-Rex.csproj.AssemblyReference.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje_predstavitve\Lestvice\Trex\obj\Debug\T-Rex.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje_predstavitve\Lestvice\Trex\obj\Debug\Letala.Form1.resources
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje_predstavitve\Lestvice\Trex\obj\Debug\Letala.Properties.Resources.resources
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje_predstavitve\Lestvice\Trex\obj\Debug\T-Rex.csproj.GenerateResource.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje_predstavitve\Lestvice\Trex\obj\Debug\T-Rex.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje_predstavitve\Lestvice\Trex\obj\Debug\Letala.exe
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje_predstavitve\Lestvice\Trex\obj\Debug\Letala.pdb
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\Vaje10\AlNe_Vaje10\Trex\bin\Debug\Letala.exe.config
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\Vaje10\AlNe_Vaje10\Trex\bin\Debug\Letala.exe
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\Vaje10\AlNe_Vaje10\Trex\bin\Debug\Letala.pdb
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\Vaje10\AlNe_Vaje10\Trex\obj\Debug\T-Rex.csproj.AssemblyReference.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\Vaje10\AlNe_Vaje10\Trex\obj\Debug\T-Rex.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\Vaje10\AlNe_Vaje10\Trex\obj\Debug\Letala.Form1.resources
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\Vaje10\AlNe_Vaje10\Trex\obj\Debug\Letala.Properties.Resources.resources
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\Vaje10\AlNe_Vaje10\Trex\obj\Debug\T-Rex.csproj.GenerateResource.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\Vaje10\AlNe_Vaje10\Trex\obj\Debug\T-Rex.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\Vaje10\AlNe_Vaje10\Trex\obj\Debug\Letala.exe
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\Vaje10\AlNe_Vaje10\Trex\obj\Debug\Letala.pdb
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\Letala.exe.config
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\Letala.exe
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\Letala.pdb
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.Buffers.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.Memory.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.Text.Json.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.ValueTuple.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.Buffers.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.Memory.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.Text.Json.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\bin\Debug\System.ValueTuple.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\obj\Debug\T-Rex.csproj.AssemblyReference.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\obj\Debug\T-Rex.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\obj\Debug\Letala.Form1.resources
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\obj\Debug\Letala.Properties.Resources.resources
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\obj\Debug\T-Rex.csproj.GenerateResource.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\obj\Debug\T-Rex.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\obj\Debug\T-Rex.csproj.CopyComplete
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\obj\Debug\Letala.exe
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10\Trex\obj\Debug\Letala.pdb
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\Letala.exe.config
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\Letala.exe
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\Letala.pdb
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.Buffers.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.Memory.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.Text.Json.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.ValueTuple.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.Buffers.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.Memory.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.Text.Json.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\bin\Debug\System.ValueTuple.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\obj\Debug\T-Rex.csproj.AssemblyReference.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\obj\Debug\T-Rex.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\obj\Debug\Letala.Form1.resources
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\obj\Debug\Letala.Properties.Resources.resources
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\obj\Debug\T-Rex.csproj.GenerateResource.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\obj\Debug\T-Rex.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\obj\Debug\T-Rex.csproj.CopyComplete
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\obj\Debug\Letala.exe
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\AlNe_Vaje10-git\AlNe_Vaje10\Trex\obj\Debug\Letala.pdb
