@@ -5,12 +5,9 @@ using System.Windows.Forms;
 
 namespace Nobel
 {
-    public partial class Form1: Form
+    public partial class Form1 : Form
     {
-        private const string povNiz = @"Server= baza.fmf.uni-lj.si; 
-        User Id= student11;
-        Password= student;
-        Database= nobel2012;";
+        private const string povNiz = @"Server=baza.fmf.uni-lj.si;User Id=student11;Password=student;Database=nobel2012;";
 
         public Form1()
         {
@@ -27,7 +24,9 @@ namespace Nobel
             if (int.TryParse(vnosLeto, out leto))
             {
                 povezava.Open();
-                NpgsqlCommand ukaz = new NpgsqlCommand("SELECT * FROM nobel WHERE subject='" + podrocje + "' AND yr='" + leto + "'", povezava);
+                NpgsqlCommand ukaz = new NpgsqlCommand("SELECT * FROM nobel WHERE subject = @subject AND yr = @year", povezava);
+                ukaz.Parameters.AddWithValue("@subject", podrocje);
+                ukaz.Parameters.AddWithValue("@year", leto);
                 NpgsqlDataReader rez = ukaz.ExecuteReader();
                 while (rez.Read())
                 {
