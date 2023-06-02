@@ -8,6 +8,7 @@ namespace Nobel
     public partial class Form1 : Form
     {
         private const string povNiz = @"Server=baza.fmf.uni-lj.si;User Id=student11;Password=student;Database=nobel2012;";
+        private DataSet dataSet;
 
         public Form1()
         {
@@ -18,27 +19,21 @@ namespace Nobel
         {
             string podrocje = podrocjeComboBox.Text.ToString();
             int leto;
-            NpgsqlConnection povezava = new NpgsqlConnection(povNiz);
             textBox.Clear();
             string vnosLeto = letoTextBox.Text.Trim(' ');
             if (int.TryParse(vnosLeto, out leto))
             {
-                povezava.Open();
-                NpgsqlCommand ukaz = new NpgsqlCommand("SELECT * FROM nobel WHERE subject = @subject AND yr = @year", povezava);
-                ukaz.Parameters.AddWithValue("@subject", podrocje);
-                ukaz.Parameters.AddWithValue("@year", leto);
-                NpgsqlDataReader rez = ukaz.ExecuteReader();
-                while (rez.Read())
+                DataRow[] rezultati = dataSet.Tables["nobel"].Select("subject = '" + podrocje + "' AND yr = " + leto);
+                foreach (DataRow row in rezultati)
                 {
                     string vrstica = "";
-                    for (int i = 0; i < rez.VisibleFieldCount; i++)
+                    for (int i = 0; i < row.ItemArray.Length; i++)
                     {
-                        vrstica += rez[i].ToString() + " ";
+                        vrstica += row[i].ToString() + " ";
                     }
-                    textBox.Text += "* " + vrstica;
+                    textBox.Text += " * " + vrstica;
                     textBox.AppendText(Environment.NewLine);
                 }
-                povezava.Close();
             }
             else
             {
@@ -50,13 +45,14 @@ namespace Nobel
         private void OknoNalozi(object sender, EventArgs e)
         {
             NpgsqlConnection povezava = new NpgsqlConnection(povNiz);
-            povezava.Open();
-            NpgsqlDataAdapter adapter = new NpgsqlDataAdapter("SELECT DISTINCT subject FROM nobel", povezava);
-            DataTable dt = new DataTable();
-            adapter.Fill(dt);
+            NpgsqlDataAdapter adapter = new NpgsqlDataAdapter("SELECT * FROM nobel", povezava);
+            dataSet = new DataSet();
+            adapter.Fill(dataSet, "nobel");
+            DataTable dt = dataSet.Tables["nobel"];
+            DataView view = new DataView(dt);
+            DataTable vsaPodrocja = view.ToTable(true, "subject");
             podrocjeComboBox.DisplayMember = "subject";
-            podrocjeComboBox.DataSource = dt;
-            povezava.Close();
+            podrocjeComboBox.DataSource = vsaPodrocja;
         }
     }
 }

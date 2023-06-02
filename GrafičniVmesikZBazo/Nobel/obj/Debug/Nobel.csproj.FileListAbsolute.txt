@@ -85,3 +85,9 @@ C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje10
 C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje10\AlNe_Vaje10-git\AlNe_Vaje10\GrafičniVmesikZBazo\Nobel\bin\Debug\Microsoft.Data.Sqlite.dll
 C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje10\AlNe_Vaje10-git\AlNe_Vaje10\GrafičniVmesikZBazo\Nobel\bin\Debug\SQLitePCLRaw.core.dll
 C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje10\AlNe_Vaje10-git\AlNe_Vaje10\GrafičniVmesikZBazo\Nobel\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje10\AlNe_Vaje10-git\AlNe_Vaje10\GrafičniVmesikZBazo\Nobel\bin\Debug\EntityFramework.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje10\AlNe_Vaje10-git\AlNe_Vaje10\GrafičniVmesikZBazo\Nobel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje10\AlNe_Vaje10-git\AlNe_Vaje10\GrafičniVmesikZBazo\Nobel\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje10\AlNe_Vaje10-git\AlNe_Vaje10\GrafičniVmesikZBazo\Nobel\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje10\AlNe_Vaje10-git\AlNe_Vaje10\GrafičniVmesikZBazo\Nobel\bin\Debug\EntityFramework.xml
+C:\Users\ALEN\OneDrive - Univerza v Ljubljani\Desktop\FMF\3. Letnik\Prog3\Vaje10\AlNe_Vaje10-git\AlNe_Vaje10\GrafičniVmesikZBazo\Nobel\bin\Debug\EntityFramework.SqlServer.xml
